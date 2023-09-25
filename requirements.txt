@@ -2,3 +2,5 @@ NumPy
 Pandas
 Matplotlib
 Seaborn
+ipykernel
+wget
